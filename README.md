@@ -1,4 +1,4 @@
 # Tkinter-Currency-Converter
 
 
-![Image](currency_normal.png)
+![](currency_normal.png)
